@@ -31,7 +31,6 @@
 #include "do_fit.h"
 #include "graf_par.h"
 #include "auto_x11.h"
-#include <QApplication>
 
 
 #include "nullcline.h"
