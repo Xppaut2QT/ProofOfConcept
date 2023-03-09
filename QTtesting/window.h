@@ -8,7 +8,7 @@ class Window : public QWidget
 {
 public:
   explicit Window(QWidget* parent = 0);
-  void handleButton();
+  void Browse();
 private:
   QPushButton *m_button;
 };
