@@ -1,4 +1,4 @@
-# Xppaut
+# Xppaut 2 QT - Proof of Concept
 
 
 
