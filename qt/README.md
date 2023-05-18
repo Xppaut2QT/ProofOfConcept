@@ -1,7 +1,6 @@
 # Compilation
 
-In both xppOpenDialog and xppMainWindow:
-1. Run `qmake` 
+In both xppOpenDialog and xppMainWindow: 
 1. Run `make`
 
 # Executables
